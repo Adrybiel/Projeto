@@ -15,7 +15,7 @@
 - só isso mesmo.
 
 # Imagem Teste
-![joia]([https://www.gettyimages.com.br/detail/foto/handsome-young-man-gesturing-thumbs-up-isolated-imagem-royalty-free/175440771?adppopup=true](https://media.istockphoto.com/id/633114032/pt/foto/feliz-sorridente-homem-dando-polegares-para-cima.jpg?s=1024x1024&w=is&k=20&c=qvs5gpDnGufWSIRgywM6leRFN9xxiJFM0P3GZD5GTzA=))
+![joia](https://media.istockphoto.com/id/633114032/pt/foto/feliz-sorridente-homem-dando-polegares-para-cima.jpg?s=1024x1024&w=is&k=20&c=qvs5gpDnGufWSIRgywM6leRFN9xxiJFM0P3GZD5GTzA=)
 
 
 > ESSE SITE SÓ FOI CRIADO PARA UM TRABALHO DE ESCOLA, E NÃO VAI SER ATUALIZADO, se não tava obvio...
