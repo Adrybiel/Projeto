@@ -10,7 +10,7 @@
 -
 -
 # Objetivos
-- --conseguir criar um Site--
+- conseguir criar um Site
 - conseguir uma nota boa 
 - só isso mesmo.
 
