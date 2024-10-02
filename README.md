@@ -9,8 +9,8 @@
 -
 -
 # Objetivos
-- conseguir criar um Site
-- conseguir uma nota boa 
+- [X] conseguir criar um Site
+- [ ] conseguir uma nota boa 
 - só isso mesmo.
 
 # Imagem Teste
