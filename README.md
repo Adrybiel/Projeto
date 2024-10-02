@@ -1,10 +1,9 @@
 # Ola
 - ....
-- eu to tentando fazer coisas legais aqui
-- mas não tenho _ideia_ do que colocar...
-- bem, aqui estão os integrantes do grupo:
-
-- Eu: [Adrybiel](https://github.com/Adrybiel)
+- aparentemente isso é uma página...
+- 👍
+- aqui estão os integrantes do grupo:
+* Eu: [Adrybiel](https://github.com/Adrybiel)
 -
 -
 -
